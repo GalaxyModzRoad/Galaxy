@@ -1,6 +1,7 @@
 Hi 👋, GalaxyMOdz
 A passionate Javascript developer from India
 manavvgarg
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavvgarg" alt="manavvgarg" /> </p>
 
 🌱 I’m currently learning Python & Java and expanding my knowledge of javascript by using TypeScript!
 
